@@ -1,0 +1,9 @@
+Packages You need for this Project
+
+streamlit
+pandas
+numpy
+nltk
+wordcloud
+feedparser
+scikit-learn
